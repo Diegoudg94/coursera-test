@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    background-color: rgb(247, 255, 255);
+    padding: 25px;
+    margin: 0 10px;
+}
